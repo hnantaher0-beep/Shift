@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dynamic-kitten-621061.netlify.app/sitemap.xml
